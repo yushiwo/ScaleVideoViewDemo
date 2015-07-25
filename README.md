@@ -1,0 +1,2 @@
+# ScaleVideoViewDemo
+手势缩放和拖拽videoview实现
